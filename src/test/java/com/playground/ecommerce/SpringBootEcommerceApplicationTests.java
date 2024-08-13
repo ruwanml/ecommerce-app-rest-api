@@ -1,10 +1,10 @@
-package com.conceptandcoding.ecommerceapprestapi;
+package com.playground.ecommerce;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class EcommerceAppRestApiApplicationTests {
+class SpringBootEcommerceApplicationTests {
 
 	@Test
 	void contextLoads() {
